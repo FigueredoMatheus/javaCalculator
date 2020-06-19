@@ -32,7 +32,9 @@ public class AppCalculadora extends Application{
 	}
 	
 	public static void main(String[] args) {
+		System.out.println("Git test");
 		launch(args);
+
 	}
 
 }
